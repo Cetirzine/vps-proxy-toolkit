@@ -87,7 +87,7 @@ python diagnostics.py minecraft mc.hypixel.net --proxy http://127.0.0.1:6152 --s
 
 同一服务器、同一时段比较路径。Minecraft STATUS/PONG 反映状态协议响应，不能替代实际对局测试；域名不能证明游戏后端位于亚洲。修改代理只在实际 RTT、抖动和丢包改善后才有意义。
 
-详见 [性能与丢包排查](docs/performance.md)。带宽、延迟和平台账号风控是不同问题；本工具不承诺低延迟、固定测速数字或规避账号限制。
+详见 [性能与丢包排查](docs/performance.md) 和 [用途分流与已有入口中转](docs/routing.md)。带宽、延迟和平台账号风控是不同问题；本工具不承诺低延迟、固定测速数字或规避账号限制。
 
 ## 本地验证
 
