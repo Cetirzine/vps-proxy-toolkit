@@ -1,0 +1,11 @@
+project.json
+private/
+rules-cache/
+.venv/
+__pycache__/
+*.pyc
+*.log
+*.pem
+*.key
+*.p12
+.DS_Store

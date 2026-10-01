@@ -1,0 +1,16 @@
+{
+  "server_ipv4": "203.0.113.10",
+  "server_ipv6": "2001:db8::10",
+  "ssh_target": "root@203.0.113.10",
+  "allow_existing": false,
+  "hysteria": {
+    "primary": {
+      "upload_mbps": 20,
+      "download_mbps": 10
+    },
+    "fast": {
+      "upload_mbps": 100,
+      "download_mbps": 30
+    }
+  }
+}
